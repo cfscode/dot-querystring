@@ -1,16 +1,17 @@
 {
-  "name": "dot-qs",
-  "version": "0.2.0",
+  "name": "cfs-dot-qs",
+  "version": "0.3.0",
   "description": "Dot separated format version of node-querystring",
   "keywords": [],
-  "author": "tutuming <tutuming@gmail.com>",
+  "author": "patrick <patrickdodgen92@gmail.com>",
   "repository": "git://github.com/tutuming/dot-querystring.git",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "should": "*",
     "mocha": "*"
   },
   "main": "index",
-  "engines": { "node": "*" }
+  "engines": {
+    "node": "*"
+  }
 }
